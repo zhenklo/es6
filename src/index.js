@@ -1,3 +1,5 @@
+import './api/fetchMock'
+
 //引入init写函数
 import login from './login/init'
 
